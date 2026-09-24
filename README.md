@@ -38,6 +38,16 @@ Cisco Packet Tracer implementation and configuration of DHCP.
 
 ---
 
+## Repository Structure
+
+- `01_Bus_Topology/` – Bus topology Packet Tracer file
+- `02_Star_Topology/` – Star topology Packet Tracer file
+- `03_VLAN/` – VLAN configuration Packet Tracer file
+- `04_DHCP/` – DHCP configuration Packet Tracer file
+- `05_Screenshots/` – Laboratory screenshots
+
+---
+
 ## Screenshots
 
 Screenshots related to the laboratory experiments are available in the `05_Screenshots` folder.
